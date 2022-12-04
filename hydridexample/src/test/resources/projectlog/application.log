@@ -1,0 +1,4 @@
+2022-11-26 23:40:07,786  INFO [main] BaseClass:28 - reading propery file for browser name 
+2022-11-26 23:40:07,838  INFO [main] BaseClass:31 - intialising chrome browser
+2022-11-27 00:01:00,709  INFO [main] BaseClass:28 - reading propery file for browser name 
+2022-11-27 00:01:00,719  INFO [main] BaseClass:31 - intialising chrome browser
